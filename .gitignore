@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.DS_Store
+serialize_model.py
+hw2_prepared_dataset.csv
+mlruns/
